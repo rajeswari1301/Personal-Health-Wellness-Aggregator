@@ -1,0 +1,3797 @@
+{
+  "metadata": {
+    "generated_at": "2026-01-31T22:51:38.703911",
+    "days": 90,
+    "profile": {
+      "avg_sleep": 7.2,
+      "avg_resting_hr": 62,
+      "avg_hrv": 45,
+      "avg_steps": 8500,
+      "avg_weight": 70.5,
+      "base_stress": 35,
+      "base_energy": 65
+    }
+  },
+  "records": [
+    {
+      "date": "2025-11-02",
+      "sleep": {
+        "duration_hours": 8.7,
+        "quality_score": 78,
+        "deep_sleep_hours": 1.5,
+        "rem_sleep_hours": 1.5,
+        "time_to_sleep_minutes": 10,
+        "wake_ups": 1
+      },
+      "heart_rate": {
+        "resting": 63,
+        "average": 83,
+        "max": 118,
+        "hrv": 45.5
+      },
+      "activity": {
+        "steps": 5495,
+        "active_minutes": 61,
+        "calories_burned": 1944,
+        "distance_km": 4.4,
+        "floors_climbed": 3
+      },
+      "nutrition": {
+        "calories": 2043,
+        "protein_g": 94.1,
+        "carbs_g": 247.9,
+        "fat_g": 62.5,
+        "water_ml": 3303,
+        "sugar_g": 56.6,
+        "fiber_g": 19.6
+      },
+      "weight": {
+        "weight_kg": 70.3,
+        "body_fat_percent": 19.1
+      },
+      "wellness": {
+        "stress_score": 33,
+        "energy_level": 76,
+        "mood_score": 76
+      }
+    },
+    {
+      "date": "2025-11-03",
+      "sleep": {
+        "duration_hours": 7.8,
+        "quality_score": 96,
+        "deep_sleep_hours": 1.2,
+        "rem_sleep_hours": 2.2,
+        "time_to_sleep_minutes": 7,
+        "wake_ups": 1
+      },
+      "heart_rate": {
+        "resting": 65,
+        "average": 80,
+        "max": 108,
+        "hrv": 35.6
+      },
+      "activity": {
+        "steps": 11209,
+        "active_minutes": 89,
+        "calories_burned": 2516,
+        "distance_km": 9.0,
+        "floors_climbed": 12
+      },
+      "nutrition": {
+        "calories": 2059,
+        "protein_g": 74.2,
+        "carbs_g": 252.4,
+        "fat_g": 68.1,
+        "water_ml": 2692,
+        "sugar_g": 43.8,
+        "fiber_g": 33.3
+      },
+      "weight": {
+        "weight_kg": 70.6,
+        "body_fat_percent": null
+      },
+      "wellness": {
+        "stress_score": 45,
+        "energy_level": 93,
+        "mood_score": 82
+      }
+    },
+    {
+      "date": "2025-11-04",
+      "sleep": {
+        "duration_hours": 7.0,
+        "quality_score": 81,
+        "deep_sleep_hours": 1.1,
+        "rem_sleep_hours": 1.1,
+        "time_to_sleep_minutes": 25,
+        "wake_ups": 1
+      },
+      "heart_rate": {
+        "resting": 58,
+        "average": 65,
+        "max": 75,
+        "hrv": 38.9
+      },
+      "activity": {
+        "steps": 9873,
+        "active_minutes": 84,
+        "calories_burned": 2488,
+        "distance_km": 7.9,
+        "floors_climbed": 7
+      },
+      "nutrition": {
+        "calories": 2280,
+        "protein_g": 77.2,
+        "carbs_g": 304.1,
+        "fat_g": 99.7,
+        "water_ml": 2650,
+        "sugar_g": 51.9,
+        "fiber_g": 19.3
+      },
+      "weight": {
+        "weight_kg": 70.5,
+        "body_fat_percent": null
+      },
+      "wellness": {
+        "stress_score": 47,
+        "energy_level": 76,
+        "mood_score": 65
+      }
+    },
+    {
+      "date": "2025-11-05",
+      "sleep": {
+        "duration_hours": 6.4,
+        "quality_score": 82,
+        "deep_sleep_hours": 1.1,
+        "rem_sleep_hours": 1.5,
+        "time_to_sleep_minutes": 22,
+        "wake_ups": 2
+      },
+      "heart_rate": {
+        "resting": 60,
+        "average": 75,
+        "max": 130,
+        "hrv": 43.9
+      },
+      "activity": {
+        "steps": 7787,
+        "active_minutes": 74,
+        "calories_burned": 2344,
+        "distance_km": 6.2,
+        "floors_climbed": 9
+      },
+      "nutrition": {
+        "calories": 1879,
+        "protein_g": 99.5,
+        "carbs_g": 269.8,
+        "fat_g": 94.7,
+        "water_ml": 2553,
+        "sugar_g": 32.1,
+        "fiber_g": 11.3
+      },
+      "weight": {
+        "weight_kg": 70.8,
+        "body_fat_percent": 19.1
+      },
+      "wellness": {
+        "stress_score": 43,
+        "energy_level": 89,
+        "mood_score": 73
+      }
+    },
+    {
+      "date": "2025-11-06",
+      "sleep": {
+        "duration_hours": 8.7,
+        "quality_score": 82,
+        "deep_sleep_hours": 1.6,
+        "rem_sleep_hours": 1.7,
+        "time_to_sleep_minutes": 35,
+        "wake_ups": 0
+      },
+      "heart_rate": {
+        "resting": 59,
+        "average": 67,
+        "max": 125,
+        "hrv": 46.3
+      },
+      "activity": {
+        "steps": 7034,
+        "active_minutes": 65,
+        "calories_burned": 2140,
+        "distance_km": 5.6,
+        "floors_climbed": 6
+      },
+      "nutrition": {
+        "calories": 2178,
+        "protein_g": 63.7,
+        "carbs_g": 279.1,
+        "fat_g": 79.6,
+        "water_ml": 2757,
+        "sugar_g": 74.2,
+        "fiber_g": 28.3
+      },
+      "weight": {
+        "weight_kg": 69.6,
+        "body_fat_percent": null
+      },
+      "wellness": {
+        "stress_score": 28,
+        "energy_level": 70,
+        "mood_score": 74
+      }
+    },
+    {
+      "date": "2025-11-07",
+      "sleep": {
+        "duration_hours": 8.4,
+        "quality_score": 79,
+        "deep_sleep_hours": 1.0,
+        "rem_sleep_hours": 1.6,
+        "time_to_sleep_minutes": 21,
+        "wake_ups": 1
+      },
+      "heart_rate": {
+        "resting": 61,
+        "average": 76,
+        "max": 111,
+        "hrv": 49.1
+      },
+      "activity": {
+        "steps": 8155,
+        "active_minutes": 82,
+        "calories_burned": 2560,
+        "distance_km": 6.5,
+        "floors_climbed": 6
+      },
+      "nutrition": {
+        "calories": 2214,
+        "protein_g": 89.9,
+        "carbs_g": 281.6,
+        "fat_g": 112.4,
+        "water_ml": 1282,
+        "sugar_g": 42.8,
+        "fiber_g": 17.0
+      },
+      "weight": {
+        "weight_kg": 70.8,
+        "body_fat_percent": null
+      },
+      "wellness": {
+        "stress_score": 41,
+        "energy_level": 83,
+        "mood_score": 83
+      }
+    },
+    {
+      "date": "2025-11-08",
+      "sleep": {
+        "duration_hours": 8.4,
+        "quality_score": 83,
+        "deep_sleep_hours": 1.1,
+        "rem_sleep_hours": 1.9,
+        "time_to_sleep_minutes": 5,
+        "wake_ups": 0
+      },
+      "heart_rate": {
+        "resting": 63,
+        "average": 70,
+        "max": 113,
+        "hrv": 44.9
+      },
+      "activity": {
+        "steps": 11012,
+        "active_minutes": 105,
+        "calories_burned": 2427,
+        "distance_km": 8.8,
+        "floors_climbed": 14
+      },
+      "nutrition": {
+        "calories": 2743,
+        "protein_g": 86.7,
+        "carbs_g": 268.6,
+        "fat_g": 99.1,
+        "water_ml": 2145,
+        "sugar_g": 30.6,
+        "fiber_g": 27.8
+      },
+      "weight": {
+        "weight_kg": 70.8,
+        "body_fat_percent": 18.4
+      },
+      "wellness": {
+        "stress_score": 20,
+        "energy_level": 86,
+        "mood_score": 95
+      }
+    },
+    {
+      "date": "2025-11-09",
+      "sleep": {
+        "duration_hours": 7.5,
+        "quality_score": 82,
+        "deep_sleep_hours": 1.3,
+        "rem_sleep_hours": 1.2,
+        "time_to_sleep_minutes": 27,
+        "wake_ups": 1
+      },
+      "heart_rate": {
+        "resting": 60,
+        "average": 76,
+        "max": 129,
+        "hrv": 49.5
+      },
+      "activity": {
+        "steps": 6007,
+        "active_minutes": 59,
+        "calories_burned": 2195,
+        "distance_km": 4.8,
+        "floors_climbed": 2
+      },
+      "nutrition": {
+        "calories": 2234,
+        "protein_g": 88.4,
+        "carbs_g": 304.5,
+        "fat_g": 78.7,
+        "water_ml": 2303,
+        "sugar_g": 55.5,
+        "fiber_g": 12.3
+      },
+      "weight": {
+        "weight_kg": 71.0,
+        "body_fat_percent": null
+      },
+      "wellness": {
+        "stress_score": 10,
+        "energy_level": 68,
+        "mood_score": 79
+      }
+    },
+    {
+      "date": "2025-11-10",
+      "sleep": {
+        "duration_hours": 8.4,
+        "quality_score": 80,
+        "deep_sleep_hours": 1.1,
+        "rem_sleep_hours": 2.0,
+        "time_to_sleep_minutes": 19,
+        "wake_ups": 0
+      },
+      "heart_rate": {
+        "resting": 59,
+        "average": 74,
+        "max": 120,
+        "hrv": 42.6
+      },
+      "activity": {
+        "steps": 10400,
+        "active_minutes": 107,
+        "calories_burned": 2500,
+        "distance_km": 8.3,
+        "floors_climbed": 6
+      },
+      "nutrition": {
+        "calories": 1795,
+        "protein_g": 40,
+        "carbs_g": 301.8,
+        "fat_g": 42.5,
+        "water_ml": 2454,
+        "sugar_g": 28.4,
+        "fiber_g": 24.2
+      },
+      "weight": {
+        "weight_kg": 70.5,
+        "body_fat_percent": null
+      },
+      "wellness": {
+        "stress_score": 27,
+        "energy_level": 76,
+        "mood_score": 71
+      }
+    },
+    {
+      "date": "2025-11-11",
+      "sleep": {
+        "duration_hours": 8.8,
+        "quality_score": 73,
+        "deep_sleep_hours": 1.2,
+        "rem_sleep_hours": 1.0,
+        "time_to_sleep_minutes": 10,
+        "wake_ups": 1
+      },
+      "heart_rate": {
+        "resting": 58,
+        "average": 67,
+        "max": 95,
+        "hrv": 44.8
+      },
+      "activity": {
+        "steps": 8007,
+        "active_minutes": 62,
+        "calories_burned": 2317,
+        "distance_km": 6.4,
+        "floors_climbed": 10
+      },
+      "nutrition": {
+        "calories": 2384,
+        "protein_g": 72.0,
+        "carbs_g": 292.5,
+        "fat_g": 71.3,
+        "water_ml": 1776,
+        "sugar_g": 67.7,
+        "fiber_g": 19.6
+      },
+      "weight": {
+        "weight_kg": 70.8,
+        "body_fat_percent": 18.5
+      },
+      "wellness": {
+        "stress_score": 21,
+        "energy_level": 77,
+        "mood_score": 82
+      }
+    },
+    {
+      "date": "2025-11-12",
+      "sleep": {
+        "duration_hours": 4.7,
+        "quality_score": 68,
+        "deep_sleep_hours": 0.8,
+        "rem_sleep_hours": 1.1,
+        "time_to_sleep_minutes": 27,
+        "wake_ups": 0
+      },
+      "heart_rate": {
+        "resting": 61,
+        "average": 69,
+        "max": 93,
+        "hrv": 52.6
+      },
+      "activity": {
+        "steps": 6342,
+        "active_minutes": 60,
+        "calories_burned": 2402,
+        "distance_km": 5.1,
+        "floors_climbed": 9
+      },
+      "nutrition": {
+        "calories": 2201,
+        "protein_g": 98.1,
+        "carbs_g": 279.1,
+        "fat_g": 76.2,
+        "water_ml": 2391,
+        "sugar_g": 37.0,
+        "fiber_g": 15.4
+      },
+      "weight": {
+        "weight_kg": 69.8,
+        "body_fat_percent": null
+      },
+      "wellness": {
+        "stress_score": 43,
+        "energy_level": 70,
+        "mood_score": 62
+      }
+    },
+    {
+      "date": "2025-11-13",
+      "sleep": {
+        "duration_hours": 7.6,
+        "quality_score": 77,
+        "deep_sleep_hours": 0.9,
+        "rem_sleep_hours": 1.5,
+        "time_to_sleep_minutes": 28,
+        "wake_ups": 2
+      },
+      "heart_rate": {
+        "resting": 66,
+        "average": 71,
+        "max": 106,
+        "hrv": 43.2
+      },
+      "activity": {
+        "steps": 6658,
+        "active_minutes": 62,
+        "calories_burned": 2144,
+        "distance_km": 5.3,
+        "floors_climbed": 3
+      },
+      "nutrition": {
+        "calories": 1792,
+        "protein_g": 114.2,
+        "carbs_g": 235.9,
+        "fat_g": 38.1,
+        "water_ml": 2469,
+        "sugar_g": 75.6,
+        "fiber_g": 28.1
+      },
+      "weight": {
+        "weight_kg": 70.6,
+        "body_fat_percent": null
+      },
+      "wellness": {
+        "stress_score": 35,
+        "energy_level": 59,
+        "mood_score": 74
+      }
+    },
+    {
+      "date": "2025-11-14",
+      "sleep": {
+        "duration_hours": 7.9,
+        "quality_score": 81,
+        "deep_sleep_hours": 1.2,
+        "rem_sleep_hours": 1.4,
+        "time_to_sleep_minutes": 29,
+        "wake_ups": 0
+      },
+      "heart_rate": {
+        "resting": 68,
+        "average": 86,
+        "max": 116,
+        "hrv": 45.5
+      },
+      "activity": {
+        "steps": 7818,
+        "active_minutes": 71,
+        "calories_burned": 2307,
+        "distance_km": 6.3,
+        "floors_climbed": 11
+      },
+      "nutrition": {
+        "calories": 2292,
+        "protein_g": 66.4,
+        "carbs_g": 270.9,
+        "fat_g": 100.8,
+        "water_ml": 2862,
+        "sugar_g": 29.3,
+        "fiber_g": 19.2
+      },
+      "weight": {
+        "weight_kg": 70.8,
+        "body_fat_percent": 18.8
+      },
+      "wellness": {
+        "stress_score": 29,
+        "energy_level": 76,
+        "mood_score": 74
+      }
+    },
+    {
+      "date": "2025-11-15",
+      "sleep": {
+        "duration_hours": 8.0,
+        "quality_score": 71,
+        "deep_sleep_hours": 1.1,
+        "rem_sleep_hours": 1.6,
+        "time_to_sleep_minutes": 5,
+        "wake_ups": 0
+      },
+      "heart_rate": {
+        "resting": 62,
+        "average": 72,
+        "max": 124,
+        "hrv": 44.0
+      },
+      "activity": {
+        "steps": 9727,
+        "active_minutes": 89,
+        "calories_burned": 2617,
+        "distance_km": 7.8,
+        "floors_climbed": 3
+      },
+      "nutrition": {
+        "calories": 2180,
+        "protein_g": 91.2,
+        "carbs_g": 305.1,
+        "fat_g": 71.7,
+        "water_ml": 3210,
+        "sugar_g": 39.8,
+        "fiber_g": 29.1
+      },
+      "weight": {
+        "weight_kg": 71.1,
+        "body_fat_percent": null
+      },
+      "wellness": {
+        "stress_score": 34,
+        "energy_level": 65,
+        "mood_score": 66
+      }
+    },
+    {
+      "date": "2025-11-16",
+      "sleep": {
+        "duration_hours": 7.8,
+        "quality_score": 81,
+        "deep_sleep_hours": 1.1,
+        "rem_sleep_hours": 1.3,
+        "time_to_sleep_minutes": 5,
+        "wake_ups": 1
+      },
+      "heart_rate": {
+        "resting": 56,
+        "average": 66,
+        "max": 125,
+        "hrv": 49.9
+      },
+      "activity": {
+        "steps": 9791,
+        "active_minutes": 116,
+        "calories_burned": 2628,
+        "distance_km": 7.8,
+        "floors_climbed": 10
+      },
+      "nutrition": {
+        "calories": 2577,
+        "protein_g": 90.2,
+        "carbs_g": 321.0,
+        "fat_g": 92.5,
+        "water_ml": 3112,
+        "sugar_g": 24.7,
+        "fiber_g": 45.8
+      },
+      "weight": {
+        "weight_kg": 70.9,
+        "body_fat_percent": null
+      },
+      "wellness": {
+        "stress_score": 21,
+        "energy_level": 90,
+        "mood_score": 88
+      }
+    },
+    {
+      "date": "2025-11-17",
+      "sleep": {
+        "duration_hours": 7.1,
+        "quality_score": 75,
+        "deep_sleep_hours": 1.0,
+        "rem_sleep_hours": 2.2,
+        "time_to_sleep_minutes": 20,
+        "wake_ups": 2
+      },
+      "heart_rate": {
+        "resting": 61,
+        "average": 76,
+        "max": 129,
+        "hrv": 39.7
+      },
+      "activity": {
+        "steps": 8276,
+        "active_minutes": 92,
+        "calories_burned": 2372,
+        "distance_km": 6.6,
+        "floors_climbed": 9
+      },
+      "nutrition": {
+        "calories": 2207,
+        "protein_g": 81.6,
+        "carbs_g": 326.5,
+        "fat_g": 64.9,
+        "water_ml": 2729,
+        "sugar_g": 51.2,
+        "fiber_g": 15.0
+      },
+      "weight": {
+        "weight_kg": 70.1,
+        "body_fat_percent": 18.0
+      },
+      "wellness": {
+        "stress_score": 29,
+        "energy_level": 51,
+        "mood_score": 56
+      }
+    },
+    {
+      "date": "2025-11-18",
+      "sleep": {
+        "duration_hours": 7.5,
+        "quality_score": 79,
+        "deep_sleep_hours": 1.3,
+        "rem_sleep_hours": 1.5,
+        "time_to_sleep_minutes": 15,
+        "wake_ups": 1
+      },
+      "heart_rate": {
+        "resting": 64,
+        "average": 82,
+        "max": 127,
+        "hrv": 40.3
+      },
+      "activity": {
+        "steps": 6186,
+        "active_minutes": 83,
+        "calories_burned": 2410,
+        "distance_km": 4.9,
+        "floors_climbed": 10
+      },
+      "nutrition": {
+        "calories": 2134,
+        "protein_g": 99.8,
+        "carbs_g": 259.9,
+        "fat_g": 70.2,
+        "water_ml": 3143,
+        "sugar_g": 47.9,
+        "fiber_g": 27.4
+      },
+      "weight": {
+        "weight_kg": 70.5,
+        "body_fat_percent": null
+      },
+      "wellness": {
+        "stress_score": 54,
+        "energy_level": 63,
+        "mood_score": 56
+      }
+    },
+    {
+      "date": "2025-11-19",
+      "sleep": {
+        "duration_hours": 7.2,
+        "quality_score": 71,
+        "deep_sleep_hours": 1.0,
+        "rem_sleep_hours": 1.6,
+        "time_to_sleep_minutes": 15,
+        "wake_ups": 0
+      },
+      "heart_rate": {
+        "resting": 64,
+        "average": 73,
+        "max": 133,
+        "hrv": 48.9
+      },
+      "activity": {
+        "steps": 8250,
+        "active_minutes": 99,
+        "calories_burned": 2390,
+        "distance_km": 6.6,
+        "floors_climbed": 7
+      },
+      "nutrition": {
+        "calories": 2210,
+        "protein_g": 75.5,
+        "carbs_g": 264.1,
+        "fat_g": 104.8,
+        "water_ml": 3381,
+        "sugar_g": 22.0,
+        "fiber_g": 10.2
+      },
+      "weight": {
+        "weight_kg": 71.3,
+        "body_fat_percent": null
+      },
+      "wellness": {
+        "stress_score": 33,
+        "energy_level": 74,
+        "mood_score": 77
+      }
+    },
+    {
+      "date": "2025-11-20",
+      "sleep": {
+        "duration_hours": 7.6,
+        "quality_score": 67,
+        "deep_sleep_hours": 1.0,
+        "rem_sleep_hours": 1.5,
+        "time_to_sleep_minutes": 26,
+        "wake_ups": 2
+      },
+      "heart_rate": {
+        "resting": 61,
+        "average": 73,
+        "max": 113,
+        "hrv": 52.4
+      },
+      "activity": {
+        "steps": 7564,
+        "active_minutes": 77,
+        "calories_burned": 2344,
+        "distance_km": 6.1,
+        "floors_climbed": 12
+      },
+      "nutrition": {
+        "calories": 2180,
+        "protein_g": 78.2,
+        "carbs_g": 286.6,
+        "fat_g": 53.6,
+        "water_ml": 3401,
+        "sugar_g": 40.1,
+        "fiber_g": 31.9
+      },
+      "weight": {
+        "weight_kg": 70.8,
+        "body_fat_percent": 18.4
+      },
+      "wellness": {
+        "stress_score": 23,
+        "energy_level": 74,
+        "mood_score": 67
+      }
+    },
+    {
+      "date": "2025-11-21",
+      "sleep": {
+        "duration_hours": 7.2,
+        "quality_score": 77,
+        "deep_sleep_hours": 1.3,
+        "rem_sleep_hours": 1.7,
+        "time_to_sleep_minutes": 25,
+        "wake_ups": 0
+      },
+      "heart_rate": {
+        "resting": 60,
+        "average": 73,
+        "max": 124,
+        "hrv": 44.5
+      },
+      "activity": {
+        "steps": 7355,
+        "active_minutes": 73,
+        "calories_burned": 2219,
+        "distance_km": 5.9,
+        "floors_climbed": 5
+      },
+      "nutrition": {
+        "calories": 2215,
+        "protein_g": 88.5,
+        "carbs_g": 317.5,
+        "fat_g": 107.8,
+        "water_ml": 2071,
+        "sugar_g": 27.2,
+        "fiber_g": 31.4
+      },
+      "weight": {
+        "weight_kg": 70.9,
+        "body_fat_percent": null
+      },
+      "wellness": {
+        "stress_score": 17,
+        "energy_level": 71,
+        "mood_score": 75
+      }
+    },
+    {
+      "date": "2025-11-22",
+      "sleep": {
+        "duration_hours": 7.6,
+        "quality_score": 78,
+        "deep_sleep_hours": 1.2,
+        "rem_sleep_hours": 2.0,
+        "time_to_sleep_minutes": 5,
+        "wake_ups": 0
+      },
+      "heart_rate": {
+        "resting": 59,
+        "average": 70,
+        "max": 72,
+        "hrv": 41.9
+      },
+      "activity": {
+        "steps": 6013,
+        "active_minutes": 56,
+        "calories_burned": 2217,
+        "distance_km": 4.8,
+        "floors_climbed": 8
+      },
+      "nutrition": {
+        "calories": 2411,
+        "protein_g": 99.0,
+        "carbs_g": 336.5,
+        "fat_g": 94.0,
+        "water_ml": 3085,
+        "sugar_g": 53.4,
+        "fiber_g": 25.7
+      },
+      "weight": {
+        "weight_kg": 70.7,
+        "body_fat_percent": null
+      },
+      "wellness": {
+        "stress_score": 36,
+        "energy_level": 72,
+        "mood_score": 72
+      }
+    },
+    {
+      "date": "2025-11-23",
+      "sleep": {
+        "duration_hours": 9.0,
+        "quality_score": 88,
+        "deep_sleep_hours": 0.9,
+        "rem_sleep_hours": 2.5,
+        "time_to_sleep_minutes": 33,
+        "wake_ups": 1
+      },
+      "heart_rate": {
+        "resting": 59,
+        "average": 62,
+        "max": 120,
+        "hrv": 44.1
+      },
+      "activity": {
+        "steps": 8103,
+        "active_minutes": 83,
+        "calories_burned": 2435,
+        "distance_km": 6.5,
+        "floors_climbed": 5
+      },
+      "nutrition": {
+        "calories": 2315,
+        "protein_g": 75.1,
+        "carbs_g": 250.4,
+        "fat_g": 87.9,
+        "water_ml": 2561,
+        "sugar_g": 28.5,
+        "fiber_g": 20.5
+      },
+      "weight": {
+        "weight_kg": 70.6,
+        "body_fat_percent": 18.1
+      },
+      "wellness": {
+        "stress_score": 43,
+        "energy_level": 72,
+        "mood_score": 66
+      }
+    },
+    {
+      "date": "2025-11-24",
+      "sleep": {
+        "duration_hours": 7.2,
+        "quality_score": 65,
+        "deep_sleep_hours": 0.9,
+        "rem_sleep_hours": 1.3,
+        "time_to_sleep_minutes": 14,
+        "wake_ups": 1
+      },
+      "heart_rate": {
+        "resting": 63,
+        "average": 78,
+        "max": 87,
+        "hrv": 37.2
+      },
+      "activity": {
+        "steps": 9027,
+        "active_minutes": 91,
+        "calories_burned": 2266,
+        "distance_km": 7.2,
+        "floors_climbed": 12
+      },
+      "nutrition": {
+        "calories": 2132,
+        "protein_g": 96.5,
+        "carbs_g": 285.2,
+        "fat_g": 74.1,
+        "water_ml": 3682,
+        "sugar_g": 30.1,
+        "fiber_g": 11.5
+      },
+      "weight": {
+        "weight_kg": 70.2,
+        "body_fat_percent": null
+      },
+      "wellness": {
+        "stress_score": 25,
+        "energy_level": 60,
+        "mood_score": 61
+      }
+    },
+    {
+      "date": "2025-11-25",
+      "sleep": {
+        "duration_hours": 8.3,
+        "quality_score": 80,
+        "deep_sleep_hours": 1.5,
+        "rem_sleep_hours": 1.8,
+        "time_to_sleep_minutes": 5,
+        "wake_ups": 1
+      },
+      "heart_rate": {
+        "resting": 56,
+        "average": 80,
+        "max": 103,
+        "hrv": 49.3
+      },
+      "activity": {
+        "steps": 13667,
+        "active_minutes": 125,
+        "calories_burned": 2696,
+        "distance_km": 10.9,
+        "floors_climbed": 5
+      },
+      "nutrition": {
+        "calories": 2458,
+        "protein_g": 91.2,
+        "carbs_g": 323.3,
+        "fat_g": 103.6,
+        "water_ml": 3809,
+        "sugar_g": 63.8,
+        "fiber_g": 24.6
+      },
+      "weight": {
+        "weight_kg": 71.2,
+        "body_fat_percent": null
+      },
+      "wellness": {
+        "stress_score": 55,
+        "energy_level": 95,
+        "mood_score": 72
+      }
+    },
+    {
+      "date": "2025-11-26",
+      "sleep": {
+        "duration_hours": 7.4,
+        "quality_score": 69,
+        "deep_sleep_hours": 1.4,
+        "rem_sleep_hours": 1.3,
+        "time_to_sleep_minutes": 22,
+        "wake_ups": 1
+      },
+      "heart_rate": {
+        "resting": 60,
+        "average": 75,
+        "max": 89,
+        "hrv": 50.4
+      },
+      "activity": {
+        "steps": 9111,
+        "active_minutes": 78,
+        "calories_burned": 2373,
+        "distance_km": 7.3,
+        "floors_climbed": 6
+      },
+      "nutrition": {
+        "calories": 2155,
+        "protein_g": 83.5,
+        "carbs_g": 256.3,
+        "fat_g": 99.8,
+        "water_ml": 2138,
+        "sugar_g": 45.8,
+        "fiber_g": 12.5
+      },
+      "weight": {
+        "weight_kg": 70.7,
+        "body_fat_percent": 18.2
+      },
+      "wellness": {
+        "stress_score": 48,
+        "energy_level": 71,
+        "mood_score": 63
+      }
+    },
+    {
+      "date": "2025-11-27",
+      "sleep": {
+        "duration_hours": 7.5,
+        "quality_score": 96,
+        "deep_sleep_hours": 1.1,
+        "rem_sleep_hours": 1.1,
+        "time_to_sleep_minutes": 23,
+        "wake_ups": 0
+      },
+      "heart_rate": {
+        "resting": 58,
+        "average": 70,
+        "max": 122,
+        "hrv": 51.6
+      },
+      "activity": {
+        "steps": 8094,
+        "active_minutes": 81,
+        "calories_burned": 2283,
+        "distance_km": 6.5,
+        "floors_climbed": 14
+      },
+      "nutrition": {
+        "calories": 2340,
+        "protein_g": 96.5,
+        "carbs_g": 257.8,
+        "fat_g": 90.0,
+        "water_ml": 2510,
+        "sugar_g": 50.1,
+        "fiber_g": 28.5
+      },
+      "weight": {
+        "weight_kg": 70.8,
+        "body_fat_percent": null
+      },
+      "wellness": {
+        "stress_score": 37,
+        "energy_level": 71,
+        "mood_score": 70
+      }
+    },
+    {
+      "date": "2025-11-28",
+      "sleep": {
+        "duration_hours": 7.7,
+        "quality_score": 87,
+        "deep_sleep_hours": 1.2,
+        "rem_sleep_hours": 1.4,
+        "time_to_sleep_minutes": 5,
+        "wake_ups": 0
+      },
+      "heart_rate": {
+        "resting": 62,
+        "average": 81,
+        "max": 98,
+        "hrv": 42.3
+      },
+      "activity": {
+        "steps": 7831,
+        "active_minutes": 57,
+        "calories_burned": 2338,
+        "distance_km": 6.3,
+        "floors_climbed": 7
+      },
+      "nutrition": {
+        "calories": 2095,
+        "protein_g": 74.0,
+        "carbs_g": 265.1,
+        "fat_g": 99.0,
+        "water_ml": 2998,
+        "sugar_g": 47.1,
+        "fiber_g": 26.5
+      },
+      "weight": {
+        "weight_kg": 70.7,
+        "body_fat_percent": null
+      },
+      "wellness": {
+        "stress_score": 38,
+        "energy_level": 87,
+        "mood_score": 82
+      }
+    },
+    {
+      "date": "2025-11-29",
+      "sleep": {
+        "duration_hours": 8.2,
+        "quality_score": 72,
+        "deep_sleep_hours": 1.8,
+        "rem_sleep_hours": 2.0,
+        "time_to_sleep_minutes": 17,
+        "wake_ups": 1
+      },
+      "heart_rate": {
+        "resting": 60,
+        "average": 71,
+        "max": 95,
+        "hrv": 45.8
+      },
+      "activity": {
+        "steps": 5148,
+        "active_minutes": 40,
+        "calories_burned": 2050,
+        "distance_km": 4.1,
+        "floors_climbed": 3
+      },
+      "nutrition": {
+        "calories": 2151,
+        "protein_g": 84.2,
+        "carbs_g": 305.5,
+        "fat_g": 89.5,
+        "water_ml": 1932,
+        "sugar_g": 35.6,
+        "fiber_g": 22.5
+      },
+      "weight": {
+        "weight_kg": 70.6,
+        "body_fat_percent": 18.3
+      },
+      "wellness": {
+        "stress_score": 11,
+        "energy_level": 75,
+        "mood_score": 76
+      }
+    },
+    {
+      "date": "2025-11-30",
+      "sleep": {
+        "duration_hours": 8.3,
+        "quality_score": 77,
+        "deep_sleep_hours": 1.1,
+        "rem_sleep_hours": 1.6,
+        "time_to_sleep_minutes": 13,
+        "wake_ups": 2
+      },
+      "heart_rate": {
+        "resting": 60,
+        "average": 80,
+        "max": 128,
+        "hrv": 47.2
+      },
+      "activity": {
+        "steps": 6253,
+        "active_minutes": 66,
+        "calories_burned": 2160,
+        "distance_km": 5.0,
+        "floors_climbed": 5
+      },
+      "nutrition": {
+        "calories": 2240,
+        "protein_g": 71.7,
+        "carbs_g": 270.3,
+        "fat_g": 82.8,
+        "water_ml": 2904,
+        "sugar_g": 46.9,
+        "fiber_g": 10.9
+      },
+      "weight": {
+        "weight_kg": 70.8,
+        "body_fat_percent": null
+      },
+      "wellness": {
+        "stress_score": 16,
+        "energy_level": 67,
+        "mood_score": 68
+      }
+    },
+    {
+      "date": "2025-12-01",
+      "sleep": {
+        "duration_hours": 5.8,
+        "quality_score": 69,
+        "deep_sleep_hours": 0.9,
+        "rem_sleep_hours": 1.2,
+        "time_to_sleep_minutes": 17,
+        "wake_ups": 3
+      },
+      "heart_rate": {
+        "resting": 56,
+        "average": 64,
+        "max": 91,
+        "hrv": 49.9
+      },
+      "activity": {
+        "steps": 9253,
+        "active_minutes": 87,
+        "calories_burned": 2379,
+        "distance_km": 7.4,
+        "floors_climbed": 8
+      },
+      "nutrition": {
+        "calories": 2903,
+        "protein_g": 99.8,
+        "carbs_g": 297.7,
+        "fat_g": 105.8,
+        "water_ml": 2641,
+        "sugar_g": 20.8,
+        "fiber_g": 26.8
+      },
+      "weight": {
+        "weight_kg": 71.0,
+        "body_fat_percent": null
+      },
+      "wellness": {
+        "stress_score": 17,
+        "energy_level": 60,
+        "mood_score": 61
+      }
+    },
+    {
+      "date": "2025-12-02",
+      "sleep": {
+        "duration_hours": 7.9,
+        "quality_score": 89,
+        "deep_sleep_hours": 1.1,
+        "rem_sleep_hours": 1.6,
+        "time_to_sleep_minutes": 19,
+        "wake_ups": 0
+      },
+      "heart_rate": {
+        "resting": 55,
+        "average": 68,
+        "max": 102,
+        "hrv": 56.6
+      },
+      "activity": {
+        "steps": 8833,
+        "active_minutes": 82,
+        "calories_burned": 2524,
+        "distance_km": 7.1,
+        "floors_climbed": 4
+      },
+      "nutrition": {
+        "calories": 2388,
+        "protein_g": 93.9,
+        "carbs_g": 363.5,
+        "fat_g": 114.8,
+        "water_ml": 2369,
+        "sugar_g": 47.2,
+        "fiber_g": 17.6
+      },
+      "weight": {
+        "weight_kg": 70.4,
+        "body_fat_percent": 18.4
+      },
+      "wellness": {
+        "stress_score": 57,
+        "energy_level": 73,
+        "mood_score": 59
+      }
+    },
+    {
+      "date": "2025-12-03",
+      "sleep": {
+        "duration_hours": 7.2,
+        "quality_score": 78,
+        "deep_sleep_hours": 0.6,
+        "rem_sleep_hours": 1.5,
+        "time_to_sleep_minutes": 10,
+        "wake_ups": 0
+      },
+      "heart_rate": {
+        "resting": 61,
+        "average": 69,
+        "max": 119,
+        "hrv": 49.7
+      },
+      "activity": {
+        "steps": 8294,
+        "active_minutes": 86,
+        "calories_burned": 2313,
+        "distance_km": 6.6,
+        "floors_climbed": 8
+      },
+      "nutrition": {
+        "calories": 2348,
+        "protein_g": 90.5,
+        "carbs_g": 276.9,
+        "fat_g": 119.3,
+        "water_ml": 3116,
+        "sugar_g": 44.3,
+        "fiber_g": 25.9
+      },
+      "weight": {
+        "weight_kg": 71.6,
+        "body_fat_percent": null
+      },
+      "wellness": {
+        "stress_score": 41,
+        "energy_level": 75,
+        "mood_score": 72
+      }
+    },
+    {
+      "date": "2025-12-04",
+      "sleep": {
+        "duration_hours": 7.6,
+        "quality_score": 78,
+        "deep_sleep_hours": 1.4,
+        "rem_sleep_hours": 1.6,
+        "time_to_sleep_minutes": 16,
+        "wake_ups": 2
+      },
+      "heart_rate": {
+        "resting": 63,
+        "average": 76,
+        "max": 126,
+        "hrv": 42.7
+      },
+      "activity": {
+        "steps": 6183,
+        "active_minutes": 60,
+        "calories_burned": 2338,
+        "distance_km": 4.9,
+        "floors_climbed": 8
+      },
+      "nutrition": {
+        "calories": 2075,
+        "protein_g": 74.5,
+        "carbs_g": 219.3,
+        "fat_g": 82.1,
+        "water_ml": 2484,
+        "sugar_g": 57.2,
+        "fiber_g": 12.5
+      },
+      "weight": {
+        "weight_kg": 70.9,
+        "body_fat_percent": null
+      },
+      "wellness": {
+        "stress_score": 24,
+        "energy_level": 56,
+        "mood_score": 55
+      }
+    },
+    {
+      "date": "2025-12-05",
+      "sleep": {
+        "duration_hours": 8.1,
+        "quality_score": 65,
+        "deep_sleep_hours": 1.5,
+        "rem_sleep_hours": 2.0,
+        "time_to_sleep_minutes": 14,
+        "wake_ups": 1
+      },
+      "heart_rate": {
+        "resting": 62,
+        "average": 71,
+        "max": 100,
+        "hrv": 45.8
+      },
+      "activity": {
+        "steps": 8370,
+        "active_minutes": 76,
+        "calories_burned": 2480,
+        "distance_km": 6.7,
+        "floors_climbed": 15
+      },
+      "nutrition": {
+        "calories": 1985,
+        "protein_g": 102.0,
+        "carbs_g": 224.1,
+        "fat_g": 67.4,
+        "water_ml": 2343,
+        "sugar_g": 40.0,
+        "fiber_g": 23.1
+      },
+      "weight": {
+        "weight_kg": 70.8,
+        "body_fat_percent": 18.6
+      },
+      "wellness": {
+        "stress_score": 32,
+        "energy_level": 63,
+        "mood_score": 76
+      }
+    },
+    {
+      "date": "2025-12-06",
+      "sleep": {
+        "duration_hours": 7.6,
+        "quality_score": 57,
+        "deep_sleep_hours": 1.2,
+        "rem_sleep_hours": 1.4,
+        "time_to_sleep_minutes": 23,
+        "wake_ups": 0
+      },
+      "heart_rate": {
+        "resting": 63,
+        "average": 69,
+        "max": 95,
+        "hrv": 58.2
+      },
+      "activity": {
+        "steps": 8948,
+        "active_minutes": 91,
+        "calories_burned": 2373,
+        "distance_km": 7.2,
+        "floors_climbed": 6
+      },
+      "nutrition": {
+        "calories": 2322,
+        "protein_g": 109.0,
+        "carbs_g": 226.5,
+        "fat_g": 82.5,
+        "water_ml": 2603,
+        "sugar_g": 33.5,
+        "fiber_g": 18.5
+      },
+      "weight": {
+        "weight_kg": 71.5,
+        "body_fat_percent": null
+      },
+      "wellness": {
+        "stress_score": 29,
+        "energy_level": 65,
+        "mood_score": 65
+      }
+    },
+    {
+      "date": "2025-12-07",
+      "sleep": {
+        "duration_hours": 7.4,
+        "quality_score": 79,
+        "deep_sleep_hours": 0.9,
+        "rem_sleep_hours": 1.3,
+        "time_to_sleep_minutes": 9,
+        "wake_ups": 1
+      },
+      "heart_rate": {
+        "resting": 62,
+        "average": 79,
+        "max": 139,
+        "hrv": 43.6
+      },
+      "activity": {
+        "steps": 6122,
+        "active_minutes": 42,
+        "calories_burned": 2313,
+        "distance_km": 4.9,
+        "floors_climbed": 7
+      },
+      "nutrition": {
+        "calories": 2368,
+        "protein_g": 66.5,
+        "carbs_g": 236.8,
+        "fat_g": 99.1,
+        "water_ml": 3959,
+        "sugar_g": 64.4,
+        "fiber_g": 27.6
+      },
+      "weight": {
+        "weight_kg": 70.5,
+        "body_fat_percent": null
+      },
+      "wellness": {
+        "stress_score": 17,
+        "energy_level": 74,
+        "mood_score": 82
+      }
+    },
+    {
+      "date": "2025-12-08",
+      "sleep": {
+        "duration_hours": 7.5,
+        "quality_score": 84,
+        "deep_sleep_hours": 1.0,
+        "rem_sleep_hours": 2.0,
+        "time_to_sleep_minutes": 21,
+        "wake_ups": 2
+      },
+      "heart_rate": {
+        "resting": 62,
+        "average": 84,
+        "max": 130,
+        "hrv": 44.2
+      },
+      "activity": {
+        "steps": 6908,
+        "active_minutes": 73,
+        "calories_burned": 2189,
+        "distance_km": 5.5,
+        "floors_climbed": 6
+      },
+      "nutrition": {
+        "calories": 1781,
+        "protein_g": 44.2,
+        "carbs_g": 212.4,
+        "fat_g": 68.9,
+        "water_ml": 1505,
+        "sugar_g": 42.8,
+        "fiber_g": 24.6
+      },
+      "weight": {
+        "weight_kg": 71.1,
+        "body_fat_percent": 19.5
+      },
+      "wellness": {
+        "stress_score": 42,
+        "energy_level": 78,
+        "mood_score": 71
+      }
+    },
+    {
+      "date": "2025-12-09",
+      "sleep": {
+        "duration_hours": 7.7,
+        "quality_score": 74,
+        "deep_sleep_hours": 1.4,
+        "rem_sleep_hours": 1.6,
+        "time_to_sleep_minutes": 5,
+        "wake_ups": 4
+      },
+      "heart_rate": {
+        "resting": 62,
+        "average": 82,
+        "max": 117,
+        "hrv": 41.1
+      },
+      "activity": {
+        "steps": 6781,
+        "active_minutes": 68,
+        "calories_burned": 2224,
+        "distance_km": 5.4,
+        "floors_climbed": 3
+      },
+      "nutrition": {
+        "calories": 2302,
+        "protein_g": 104.2,
+        "carbs_g": 299.9,
+        "fat_g": 119.8,
+        "water_ml": 2501,
+        "sugar_g": 10,
+        "fiber_g": 28.3
+      },
+      "weight": {
+        "weight_kg": 70.6,
+        "body_fat_percent": null
+      },
+      "wellness": {
+        "stress_score": 35,
+        "energy_level": 56,
+        "mood_score": 59
+      }
+    },
+    {
+      "date": "2025-12-10",
+      "sleep": {
+        "duration_hours": 6.9,
+        "quality_score": 56,
+        "deep_sleep_hours": 0.9,
+        "rem_sleep_hours": 1.6,
+        "time_to_sleep_minutes": 21,
+        "wake_ups": 0
+      },
+      "heart_rate": {
+        "resting": 65,
+        "average": 71,
+        "max": 92,
+        "hrv": 42.3
+      },
+      "activity": {
+        "steps": 6217,
+        "active_minutes": 60,
+        "calories_burned": 2120,
+        "distance_km": 5.0,
+        "floors_climbed": 3
+      },
+      "nutrition": {
+        "calories": 2065,
+        "protein_g": 71.4,
+        "carbs_g": 271.9,
+        "fat_g": 82.6,
+        "water_ml": 2240,
+        "sugar_g": 38.7,
+        "fiber_g": 12.0
+      },
+      "weight": {
+        "weight_kg": 70.2,
+        "body_fat_percent": null
+      },
+      "wellness": {
+        "stress_score": 43,
+        "energy_level": 67,
+        "mood_score": 66
+      }
+    },
+    {
+      "date": "2025-12-11",
+      "sleep": {
+        "duration_hours": 8.7,
+        "quality_score": 80,
+        "deep_sleep_hours": 1.3,
+        "rem_sleep_hours": 2.1,
+        "time_to_sleep_minutes": 8,
+        "wake_ups": 2
+      },
+      "heart_rate": {
+        "resting": 62,
+        "average": 74,
+        "max": 87,
+        "hrv": 40.8
+      },
+      "activity": {
+        "steps": 7091,
+        "active_minutes": 63,
+        "calories_burned": 2359,
+        "distance_km": 5.7,
+        "floors_climbed": 3
+      },
+      "nutrition": {
+        "calories": 1996,
+        "protein_g": 64.5,
+        "carbs_g": 234.9,
+        "fat_g": 82.3,
+        "water_ml": 1975,
+        "sugar_g": 10,
+        "fiber_g": 26.9
+      },
+      "weight": {
+        "weight_kg": 70.8,
+        "body_fat_percent": 18.5
+      },
+      "wellness": {
+        "stress_score": 32,
+        "energy_level": 88,
+        "mood_score": 77
+      }
+    },
+    {
+      "date": "2025-12-12",
+      "sleep": {
+        "duration_hours": 6.8,
+        "quality_score": 69,
+        "deep_sleep_hours": 1.0,
+        "rem_sleep_hours": 1.6,
+        "time_to_sleep_minutes": 10,
+        "wake_ups": 1
+      },
+      "heart_rate": {
+        "resting": 59,
+        "average": 78,
+        "max": 125,
+        "hrv": 30.2
+      },
+      "activity": {
+        "steps": 10226,
+        "active_minutes": 99,
+        "calories_burned": 2490,
+        "distance_km": 8.2,
+        "floors_climbed": 6
+      },
+      "nutrition": {
+        "calories": 1919,
+        "protein_g": 43.1,
+        "carbs_g": 285.5,
+        "fat_g": 77.3,
+        "water_ml": 2555,
+        "sugar_g": 10.4,
+        "fiber_g": 19.1
+      },
+      "weight": {
+        "weight_kg": 70.6,
+        "body_fat_percent": null
+      },
+      "wellness": {
+        "stress_score": 31,
+        "energy_level": 71,
+        "mood_score": 69
+      }
+    },
+    {
+      "date": "2025-12-13",
+      "sleep": {
+        "duration_hours": 6.8,
+        "quality_score": 74,
+        "deep_sleep_hours": 0.8,
+        "rem_sleep_hours": 2.1,
+        "time_to_sleep_minutes": 5,
+        "wake_ups": 0
+      },
+      "heart_rate": {
+        "resting": 63,
+        "average": 74,
+        "max": 108,
+        "hrv": 39.5
+      },
+      "activity": {
+        "steps": 11811,
+        "active_minutes": 135,
+        "calories_burned": 2740,
+        "distance_km": 9.4,
+        "floors_climbed": 2
+      },
+      "nutrition": {
+        "calories": 2451,
+        "protein_g": 86.4,
+        "carbs_g": 255.2,
+        "fat_g": 79.0,
+        "water_ml": 2693,
+        "sugar_g": 51.4,
+        "fiber_g": 26.2
+      },
+      "weight": {
+        "weight_kg": 71.3,
+        "body_fat_percent": null
+      },
+      "wellness": {
+        "stress_score": 10,
+        "energy_level": 70,
+        "mood_score": 79
+      }
+    },
+    {
+      "date": "2025-12-14",
+      "sleep": {
+        "duration_hours": 7.3,
+        "quality_score": 67,
+        "deep_sleep_hours": 1.3,
+        "rem_sleep_hours": 1.2,
+        "time_to_sleep_minutes": 10,
+        "wake_ups": 1
+      },
+      "heart_rate": {
+        "resting": 60,
+        "average": 78,
+        "max": 127,
+        "hrv": 52.5
+      },
+      "activity": {
+        "steps": 6613,
+        "active_minutes": 75,
+        "calories_burned": 2263,
+        "distance_km": 5.3,
+        "floors_climbed": 7
+      },
+      "nutrition": {
+        "calories": 2119,
+        "protein_g": 74.0,
+        "carbs_g": 221.6,
+        "fat_g": 79.6,
+        "water_ml": 2236,
+        "sugar_g": 67.4,
+        "fiber_g": 23.6
+      },
+      "weight": {
+        "weight_kg": 71.1,
+        "body_fat_percent": 19.2
+      },
+      "wellness": {
+        "stress_score": 14,
+        "energy_level": 75,
+        "mood_score": 85
+      }
+    },
+    {
+      "date": "2025-12-15",
+      "sleep": {
+        "duration_hours": 6.9,
+        "quality_score": 70,
+        "deep_sleep_hours": 1.5,
+        "rem_sleep_hours": 1.2,
+        "time_to_sleep_minutes": 44,
+        "wake_ups": 1
+      },
+      "heart_rate": {
+        "resting": 62,
+        "average": 84,
+        "max": 129,
+        "hrv": 39.0
+      },
+      "activity": {
+        "steps": 5664,
+        "active_minutes": 61,
+        "calories_burned": 2318,
+        "distance_km": 4.5,
+        "floors_climbed": 9
+      },
+      "nutrition": {
+        "calories": 2244,
+        "protein_g": 61.4,
+        "carbs_g": 257.8,
+        "fat_g": 102.1,
+        "water_ml": 2206,
+        "sugar_g": 19.4,
+        "fiber_g": 16.0
+      },
+      "weight": {
+        "weight_kg": 70.6,
+        "body_fat_percent": null
+      },
+      "wellness": {
+        "stress_score": 37,
+        "energy_level": 67,
+        "mood_score": 59
+      }
+    },
+    {
+      "date": "2025-12-16",
+      "sleep": {
+        "duration_hours": 8.1,
+        "quality_score": 74,
+        "deep_sleep_hours": 1.1,
+        "rem_sleep_hours": 2.1,
+        "time_to_sleep_minutes": 15,
+        "wake_ups": 1
+      },
+      "heart_rate": {
+        "resting": 62,
+        "average": 77,
+        "max": 104,
+        "hrv": 46.3
+      },
+      "activity": {
+        "steps": 8501,
+        "active_minutes": 91,
+        "calories_burned": 2482,
+        "distance_km": 6.8,
+        "floors_climbed": 8
+      },
+      "nutrition": {
+        "calories": 1995,
+        "protein_g": 83.6,
+        "carbs_g": 274.3,
+        "fat_g": 67.0,
+        "water_ml": 2044,
+        "sugar_g": 34.4,
+        "fiber_g": 37.9
+      },
+      "weight": {
+        "weight_kg": 71.3,
+        "body_fat_percent": null
+      },
+      "wellness": {
+        "stress_score": 22,
+        "energy_level": 68,
+        "mood_score": 78
+      }
+    },
+    {
+      "date": "2025-12-17",
+      "sleep": {
+        "duration_hours": 7.1,
+        "quality_score": 76,
+        "deep_sleep_hours": 1.0,
+        "rem_sleep_hours": 1.2,
+        "time_to_sleep_minutes": 5,
+        "wake_ups": 2
+      },
+      "heart_rate": {
+        "resting": 63,
+        "average": 76,
+        "max": 111,
+        "hrv": 42.3
+      },
+      "activity": {
+        "steps": 8490,
+        "active_minutes": 92,
+        "calories_burned": 2407,
+        "distance_km": 6.8,
+        "floors_climbed": 12
+      },
+      "nutrition": {
+        "calories": 2079,
+        "protein_g": 70.4,
+        "carbs_g": 289.3,
+        "fat_g": 83.4,
+        "water_ml": 2864,
+        "sugar_g": 49.0,
+        "fiber_g": 25.5
+      },
+      "weight": {
+        "weight_kg": 71.0,
+        "body_fat_percent": 17.7
+      },
+      "wellness": {
+        "stress_score": 50,
+        "energy_level": 65,
+        "mood_score": 53
+      }
+    },
+    {
+      "date": "2025-12-18",
+      "sleep": {
+        "duration_hours": 7.3,
+        "quality_score": 92,
+        "deep_sleep_hours": 0.8,
+        "rem_sleep_hours": 1.6,
+        "time_to_sleep_minutes": 5,
+        "wake_ups": 0
+      },
+      "heart_rate": {
+        "resting": 57,
+        "average": 67,
+        "max": 90,
+        "hrv": 47.4
+      },
+      "activity": {
+        "steps": 9943,
+        "active_minutes": 114,
+        "calories_burned": 2535,
+        "distance_km": 8.0,
+        "floors_climbed": 10
+      },
+      "nutrition": {
+        "calories": 2435,
+        "protein_g": 79.7,
+        "carbs_g": 261.6,
+        "fat_g": 82.7,
+        "water_ml": 2052,
+        "sugar_g": 64.3,
+        "fiber_g": 25.6
+      },
+      "weight": {
+        "weight_kg": 70.7,
+        "body_fat_percent": null
+      },
+      "wellness": {
+        "stress_score": 13,
+        "energy_level": 80,
+        "mood_score": 80
+      }
+    },
+    {
+      "date": "2025-12-19",
+      "sleep": {
+        "duration_hours": 6.2,
+        "quality_score": 56,
+        "deep_sleep_hours": 1.2,
+        "rem_sleep_hours": 1.2,
+        "time_to_sleep_minutes": 7,
+        "wake_ups": 3
+      },
+      "heart_rate": {
+        "resting": 63,
+        "average": 73,
+        "max": 99,
+        "hrv": 44.7
+      },
+      "activity": {
+        "steps": 7997,
+        "active_minutes": 59,
+        "calories_burned": 2249,
+        "distance_km": 6.4,
+        "floors_climbed": 13
+      },
+      "nutrition": {
+        "calories": 2115,
+        "protein_g": 80.0,
+        "carbs_g": 231.8,
+        "fat_g": 74.5,
+        "water_ml": 2453,
+        "sugar_g": 49.0,
+        "fiber_g": 17.9
+      },
+      "weight": {
+        "weight_kg": 70.9,
+        "body_fat_percent": null
+      },
+      "wellness": {
+        "stress_score": 43,
+        "energy_level": 49,
+        "mood_score": 52
+      }
+    },
+    {
+      "date": "2025-12-20",
+      "sleep": {
+        "duration_hours": 8.2,
+        "quality_score": 80,
+        "deep_sleep_hours": 1.3,
+        "rem_sleep_hours": 1.9,
+        "time_to_sleep_minutes": 21,
+        "wake_ups": 1
+      },
+      "heart_rate": {
+        "resting": 60,
+        "average": 73,
+        "max": 100,
+        "hrv": 45.6
+      },
+      "activity": {
+        "steps": 6100,
+        "active_minutes": 58,
+        "calories_burned": 2255,
+        "distance_km": 4.9,
+        "floors_climbed": 6
+      },
+      "nutrition": {
+        "calories": 2455,
+        "protein_g": 96.8,
+        "carbs_g": 286.2,
+        "fat_g": 92.7,
+        "water_ml": 2993,
+        "sugar_g": 10.4,
+        "fiber_g": 16.4
+      },
+      "weight": {
+        "weight_kg": 70.6,
+        "body_fat_percent": 18.8
+      },
+      "wellness": {
+        "stress_score": 24,
+        "energy_level": 75,
+        "mood_score": 76
+      }
+    },
+    {
+      "date": "2025-12-21",
+      "sleep": {
+        "duration_hours": 6.3,
+        "quality_score": 82,
+        "deep_sleep_hours": 1.1,
+        "rem_sleep_hours": 0.9,
+        "time_to_sleep_minutes": 20,
+        "wake_ups": 1
+      },
+      "heart_rate": {
+        "resting": 62,
+        "average": 82,
+        "max": 159,
+        "hrv": 46.3
+      },
+      "activity": {
+        "steps": 12023,
+        "active_minutes": 120,
+        "calories_burned": 2831,
+        "distance_km": 9.6,
+        "floors_climbed": 8
+      },
+      "nutrition": {
+        "calories": 2198,
+        "protein_g": 87.9,
+        "carbs_g": 291.6,
+        "fat_g": 87.5,
+        "water_ml": 2834,
+        "sugar_g": 54.7,
+        "fiber_g": 15.8
+      },
+      "weight": {
+        "weight_kg": 70.9,
+        "body_fat_percent": null
+      },
+      "wellness": {
+        "stress_score": 26,
+        "energy_level": 78,
+        "mood_score": 87
+      }
+    },
+    {
+      "date": "2025-12-22",
+      "sleep": {
+        "duration_hours": 7.5,
+        "quality_score": 74,
+        "deep_sleep_hours": 1.2,
+        "rem_sleep_hours": 1.7,
+        "time_to_sleep_minutes": 16,
+        "wake_ups": 0
+      },
+      "heart_rate": {
+        "resting": 63,
+        "average": 73,
+        "max": 104,
+        "hrv": 43.2
+      },
+      "activity": {
+        "steps": 10270,
+        "active_minutes": 89,
+        "calories_burned": 2437,
+        "distance_km": 8.2,
+        "floors_climbed": 5
+      },
+      "nutrition": {
+        "calories": 2438,
+        "protein_g": 85.3,
+        "carbs_g": 278.5,
+        "fat_g": 103.5,
+        "water_ml": 3429,
+        "sugar_g": 16.4,
+        "fiber_g": 16.4
+      },
+      "weight": {
+        "weight_kg": 70.5,
+        "body_fat_percent": null
+      },
+      "wellness": {
+        "stress_score": 37,
+        "energy_level": 68,
+        "mood_score": 62
+      }
+    },
+    {
+      "date": "2025-12-23",
+      "sleep": {
+        "duration_hours": 7.7,
+        "quality_score": 75,
+        "deep_sleep_hours": 0.9,
+        "rem_sleep_hours": 1.7,
+        "time_to_sleep_minutes": 29,
+        "wake_ups": 1
+      },
+      "heart_rate": {
+        "resting": 56,
+        "average": 70,
+        "max": 75,
+        "hrv": 40.9
+      },
+      "activity": {
+        "steps": 7960,
+        "active_minutes": 75,
+        "calories_burned": 2109,
+        "distance_km": 6.4,
+        "floors_climbed": 2
+      },
+      "nutrition": {
+        "calories": 2191,
+        "protein_g": 74.5,
+        "carbs_g": 342.8,
+        "fat_g": 70.1,
+        "water_ml": 2962,
+        "sugar_g": 57.7,
+        "fiber_g": 28.2
+      },
+      "weight": {
+        "weight_kg": 71.3,
+        "body_fat_percent": 17.7
+      },
+      "wellness": {
+        "stress_score": 51,
+        "energy_level": 80,
+        "mood_score": 70
+      }
+    },
+    {
+      "date": "2025-12-24",
+      "sleep": {
+        "duration_hours": 7.5,
+        "quality_score": 73,
+        "deep_sleep_hours": 1.0,
+        "rem_sleep_hours": 1.9,
+        "time_to_sleep_minutes": 17,
+        "wake_ups": 1
+      },
+      "heart_rate": {
+        "resting": 60,
+        "average": 74,
+        "max": 127,
+        "hrv": 46.1
+      },
+      "activity": {
+        "steps": 7970,
+        "active_minutes": 85,
+        "calories_burned": 2442,
+        "distance_km": 6.4,
+        "floors_climbed": 1
+      },
+      "nutrition": {
+        "calories": 2232,
+        "protein_g": 70.2,
+        "carbs_g": 245.3,
+        "fat_g": 83.9,
+        "water_ml": 2838,
+        "sugar_g": 47.8,
+        "fiber_g": 18.8
+      },
+      "weight": {
+        "weight_kg": 70.8,
+        "body_fat_percent": null
+      },
+      "wellness": {
+        "stress_score": 8,
+        "energy_level": 71,
+        "mood_score": 77
+      }
+    },
+    {
+      "date": "2025-12-25",
+      "sleep": {
+        "duration_hours": 7.9,
+        "quality_score": 83,
+        "deep_sleep_hours": 1.4,
+        "rem_sleep_hours": 1.7,
+        "time_to_sleep_minutes": 5,
+        "wake_ups": 1
+      },
+      "heart_rate": {
+        "resting": 60,
+        "average": 75,
+        "max": 121,
+        "hrv": 41.8
+      },
+      "activity": {
+        "steps": 7488,
+        "active_minutes": 54,
+        "calories_burned": 2375,
+        "distance_km": 6.0,
+        "floors_climbed": 10
+      },
+      "nutrition": {
+        "calories": 1767,
+        "protein_g": 73.8,
+        "carbs_g": 253.6,
+        "fat_g": 37.2,
+        "water_ml": 2512,
+        "sugar_g": 10,
+        "fiber_g": 21.8
+      },
+      "weight": {
+        "weight_kg": 71.3,
+        "body_fat_percent": null
+      },
+      "wellness": {
+        "stress_score": 18,
+        "energy_level": 74,
+        "mood_score": 76
+      }
+    },
+    {
+      "date": "2025-12-26",
+      "sleep": {
+        "duration_hours": 6.1,
+        "quality_score": 69,
+        "deep_sleep_hours": 1.1,
+        "rem_sleep_hours": 1.3,
+        "time_to_sleep_minutes": 5,
+        "wake_ups": 2
+      },
+      "heart_rate": {
+        "resting": 60,
+        "average": 72,
+        "max": 110,
+        "hrv": 43.1
+      },
+      "activity": {
+        "steps": 7597,
+        "active_minutes": 86,
+        "calories_burned": 2257,
+        "distance_km": 6.1,
+        "floors_climbed": 7
+      },
+      "nutrition": {
+        "calories": 2134,
+        "protein_g": 61.1,
+        "carbs_g": 235.9,
+        "fat_g": 103.4,
+        "water_ml": 2666,
+        "sugar_g": 39.3,
+        "fiber_g": 27.0
+      },
+      "weight": {
+        "weight_kg": 70.6,
+        "body_fat_percent": 18.5
+      },
+      "wellness": {
+        "stress_score": 39,
+        "energy_level": 68,
+        "mood_score": 70
+      }
+    },
+    {
+      "date": "2025-12-27",
+      "sleep": {
+        "duration_hours": 7.3,
+        "quality_score": 83,
+        "deep_sleep_hours": 0.9,
+        "rem_sleep_hours": 1.8,
+        "time_to_sleep_minutes": 16,
+        "wake_ups": 2
+      },
+      "heart_rate": {
+        "resting": 64,
+        "average": 74,
+        "max": 104,
+        "hrv": 52.5
+      },
+      "activity": {
+        "steps": 8387,
+        "active_minutes": 85,
+        "calories_burned": 2332,
+        "distance_km": 6.7,
+        "floors_climbed": 9
+      },
+      "nutrition": {
+        "calories": 2661,
+        "protein_g": 111.1,
+        "carbs_g": 303.6,
+        "fat_g": 108.0,
+        "water_ml": 2292,
+        "sugar_g": 51.4,
+        "fiber_g": 35.2
+      },
+      "weight": {
+        "weight_kg": 70.4,
+        "body_fat_percent": null
+      },
+      "wellness": {
+        "stress_score": 20,
+        "energy_level": 80,
+        "mood_score": 85
+      }
+    },
+    {
+      "date": "2025-12-28",
+      "sleep": {
+        "duration_hours": 9.3,
+        "quality_score": 82,
+        "deep_sleep_hours": 1.6,
+        "rem_sleep_hours": 2.3,
+        "time_to_sleep_minutes": 18,
+        "wake_ups": 0
+      },
+      "heart_rate": {
+        "resting": 58,
+        "average": 76,
+        "max": 141,
+        "hrv": 49.3
+      },
+      "activity": {
+        "steps": 12558,
+        "active_minutes": 124,
+        "calories_burned": 2785,
+        "distance_km": 10.0,
+        "floors_climbed": 16
+      },
+      "nutrition": {
+        "calories": 2545,
+        "protein_g": 74.3,
+        "carbs_g": 328.3,
+        "fat_g": 100.4,
+        "water_ml": 2554,
+        "sugar_g": 39.9,
+        "fiber_g": 16.5
+      },
+      "weight": {
+        "weight_kg": 70.6,
+        "body_fat_percent": null
+      },
+      "wellness": {
+        "stress_score": 27,
+        "energy_level": 71,
+        "mood_score": 76
+      }
+    },
+    {
+      "date": "2025-12-29",
+      "sleep": {
+        "duration_hours": 8.5,
+        "quality_score": 92,
+        "deep_sleep_hours": 1.1,
+        "rem_sleep_hours": 1.8,
+        "time_to_sleep_minutes": 21,
+        "wake_ups": 2
+      },
+      "heart_rate": {
+        "resting": 56,
+        "average": 66,
+        "max": 106,
+        "hrv": 45.6
+      },
+      "activity": {
+        "steps": 8979,
+        "active_minutes": 84,
+        "calories_burned": 2465,
+        "distance_km": 7.2,
+        "floors_climbed": 5
+      },
+      "nutrition": {
+        "calories": 2111,
+        "protein_g": 64.3,
+        "carbs_g": 297.6,
+        "fat_g": 100.6,
+        "water_ml": 1309,
+        "sugar_g": 48.1,
+        "fiber_g": 25.2
+      },
+      "weight": {
+        "weight_kg": 71.1,
+        "body_fat_percent": 19.0
+      },
+      "wellness": {
+        "stress_score": 38,
+        "energy_level": 80,
+        "mood_score": 69
+      }
+    },
+    {
+      "date": "2025-12-30",
+      "sleep": {
+        "duration_hours": 8.0,
+        "quality_score": 79,
+        "deep_sleep_hours": 1.5,
+        "rem_sleep_hours": 2.3,
+        "time_to_sleep_minutes": 15,
+        "wake_ups": 0
+      },
+      "heart_rate": {
+        "resting": 57,
+        "average": 68,
+        "max": 106,
+        "hrv": 45.9
+      },
+      "activity": {
+        "steps": 6482,
+        "active_minutes": 78,
+        "calories_burned": 2193,
+        "distance_km": 5.2,
+        "floors_climbed": 6
+      },
+      "nutrition": {
+        "calories": 1815,
+        "protein_g": 85.1,
+        "carbs_g": 198.6,
+        "fat_g": 72.9,
+        "water_ml": 2466,
+        "sugar_g": 35.2,
+        "fiber_g": 27.3
+      },
+      "weight": {
+        "weight_kg": 70.8,
+        "body_fat_percent": null
+      },
+      "wellness": {
+        "stress_score": 38,
+        "energy_level": 62,
+        "mood_score": 56
+      }
+    },
+    {
+      "date": "2025-12-31",
+      "sleep": {
+        "duration_hours": 7.0,
+        "quality_score": 63,
+        "deep_sleep_hours": 0.9,
+        "rem_sleep_hours": 1.6,
+        "time_to_sleep_minutes": 30,
+        "wake_ups": 0
+      },
+      "heart_rate": {
+        "resting": 65,
+        "average": 79,
+        "max": 108,
+        "hrv": 46.9
+      },
+      "activity": {
+        "steps": 11068,
+        "active_minutes": 137,
+        "calories_burned": 2599,
+        "distance_km": 8.9,
+        "floors_climbed": 6
+      },
+      "nutrition": {
+        "calories": 2167,
+        "protein_g": 77.7,
+        "carbs_g": 297.0,
+        "fat_g": 91.2,
+        "water_ml": 2058,
+        "sugar_g": 30.5,
+        "fiber_g": 43.1
+      },
+      "weight": {
+        "weight_kg": 70.6,
+        "body_fat_percent": null
+      },
+      "wellness": {
+        "stress_score": 18,
+        "energy_level": 73,
+        "mood_score": 78
+      }
+    },
+    {
+      "date": "2026-01-01",
+      "sleep": {
+        "duration_hours": 6.8,
+        "quality_score": 84,
+        "deep_sleep_hours": 1.3,
+        "rem_sleep_hours": 1.6,
+        "time_to_sleep_minutes": 8,
+        "wake_ups": 0
+      },
+      "heart_rate": {
+        "resting": 60,
+        "average": 81,
+        "max": 113,
+        "hrv": 51.4
+      },
+      "activity": {
+        "steps": 10025,
+        "active_minutes": 89,
+        "calories_burned": 2362,
+        "distance_km": 8.0,
+        "floors_climbed": 0
+      },
+      "nutrition": {
+        "calories": 2188,
+        "protein_g": 73.1,
+        "carbs_g": 273.1,
+        "fat_g": 93.4,
+        "water_ml": 2168,
+        "sugar_g": 61.5,
+        "fiber_g": 26.7
+      },
+      "weight": {
+        "weight_kg": 70.6,
+        "body_fat_percent": 19.0
+      },
+      "wellness": {
+        "stress_score": 32,
+        "energy_level": 73,
+        "mood_score": 69
+      }
+    },
+    {
+      "date": "2026-01-02",
+      "sleep": {
+        "duration_hours": 6.0,
+        "quality_score": 86,
+        "deep_sleep_hours": 1.2,
+        "rem_sleep_hours": 1.3,
+        "time_to_sleep_minutes": 5,
+        "wake_ups": 1
+      },
+      "heart_rate": {
+        "resting": 56,
+        "average": 69,
+        "max": 113,
+        "hrv": 51.2
+      },
+      "activity": {
+        "steps": 7941,
+        "active_minutes": 78,
+        "calories_burned": 2406,
+        "distance_km": 6.4,
+        "floors_climbed": 13
+      },
+      "nutrition": {
+        "calories": 2091,
+        "protein_g": 75.2,
+        "carbs_g": 236.3,
+        "fat_g": 96.1,
+        "water_ml": 2587,
+        "sugar_g": 89.7,
+        "fiber_g": 19.5
+      },
+      "weight": {
+        "weight_kg": 71.1,
+        "body_fat_percent": null
+      },
+      "wellness": {
+        "stress_score": 32,
+        "energy_level": 57,
+        "mood_score": 57
+      }
+    },
+    {
+      "date": "2026-01-03",
+      "sleep": {
+        "duration_hours": 6.8,
+        "quality_score": 66,
+        "deep_sleep_hours": 1.0,
+        "rem_sleep_hours": 1.8,
+        "time_to_sleep_minutes": 35,
+        "wake_ups": 1
+      },
+      "heart_rate": {
+        "resting": 65,
+        "average": 74,
+        "max": 121,
+        "hrv": 43.9
+      },
+      "activity": {
+        "steps": 7918,
+        "active_minutes": 80,
+        "calories_burned": 2406,
+        "distance_km": 6.3,
+        "floors_climbed": 11
+      },
+      "nutrition": {
+        "calories": 2266,
+        "protein_g": 73.6,
+        "carbs_g": 309.6,
+        "fat_g": 80.6,
+        "water_ml": 2367,
+        "sugar_g": 48.9,
+        "fiber_g": 23.0
+      },
+      "weight": {
+        "weight_kg": 71.6,
+        "body_fat_percent": null
+      },
+      "wellness": {
+        "stress_score": 23,
+        "energy_level": 77,
+        "mood_score": 70
+      }
+    },
+    {
+      "date": "2026-01-04",
+      "sleep": {
+        "duration_hours": 8.6,
+        "quality_score": 78,
+        "deep_sleep_hours": 1.4,
+        "rem_sleep_hours": 1.6,
+        "time_to_sleep_minutes": 6,
+        "wake_ups": 1
+      },
+      "heart_rate": {
+        "resting": 60,
+        "average": 74,
+        "max": 101,
+        "hrv": 37.4
+      },
+      "activity": {
+        "steps": 9980,
+        "active_minutes": 90,
+        "calories_burned": 2367,
+        "distance_km": 8.0,
+        "floors_climbed": 6
+      },
+      "nutrition": {
+        "calories": 2333,
+        "protein_g": 103.8,
+        "carbs_g": 316.2,
+        "fat_g": 109.3,
+        "water_ml": 2858,
+        "sugar_g": 56.5,
+        "fiber_g": 22.7
+      },
+      "weight": {
+        "weight_kg": 71.0,
+        "body_fat_percent": 19.4
+      },
+      "wellness": {
+        "stress_score": 26,
+        "energy_level": 76,
+        "mood_score": 67
+      }
+    },
+    {
+      "date": "2026-01-05",
+      "sleep": {
+        "duration_hours": 8.3,
+        "quality_score": 83,
+        "deep_sleep_hours": 1.1,
+        "rem_sleep_hours": 1.5,
+        "time_to_sleep_minutes": 5,
+        "wake_ups": 1
+      },
+      "heart_rate": {
+        "resting": 56,
+        "average": 78,
+        "max": 136,
+        "hrv": 45.3
+      },
+      "activity": {
+        "steps": 7825,
+        "active_minutes": 77,
+        "calories_burned": 2429,
+        "distance_km": 6.3,
+        "floors_climbed": 1
+      },
+      "nutrition": {
+        "calories": 2353,
+        "protein_g": 72.5,
+        "carbs_g": 254.9,
+        "fat_g": 88.1,
+        "water_ml": 2233,
+        "sugar_g": 28.1,
+        "fiber_g": 12.9
+      },
+      "weight": {
+        "weight_kg": 70.5,
+        "body_fat_percent": null
+      },
+      "wellness": {
+        "stress_score": 16,
+        "energy_level": 75,
+        "mood_score": 78
+      }
+    },
+    {
+      "date": "2026-01-06",
+      "sleep": {
+        "duration_hours": 5.8,
+        "quality_score": 44,
+        "deep_sleep_hours": 0.8,
+        "rem_sleep_hours": 1.4,
+        "time_to_sleep_minutes": 5,
+        "wake_ups": 0
+      },
+      "heart_rate": {
+        "resting": 77,
+        "average": 93,
+        "max": 136,
+        "hrv": 15
+      },
+      "activity": {
+        "steps": 1910,
+        "active_minutes": 12,
+        "calories_burned": 1944,
+        "distance_km": 1.5,
+        "floors_climbed": 11
+      },
+      "nutrition": {
+        "calories": 2167,
+        "protein_g": 90.7,
+        "carbs_g": 268.8,
+        "fat_g": 65.5,
+        "water_ml": 1045,
+        "sugar_g": 13.9,
+        "fiber_g": 25.0
+      },
+      "weight": {
+        "weight_kg": 71.0,
+        "body_fat_percent": null
+      },
+      "wellness": {
+        "stress_score": 46,
+        "energy_level": 23,
+        "mood_score": 34
+      }
+    },
+    {
+      "date": "2026-01-07",
+      "sleep": {
+        "duration_hours": 5.7,
+        "quality_score": 43,
+        "deep_sleep_hours": 0.8,
+        "rem_sleep_hours": 1.8,
+        "time_to_sleep_minutes": 17,
+        "wake_ups": 3
+      },
+      "heart_rate": {
+        "resting": 77,
+        "average": 88,
+        "max": 137,
+        "hrv": 28.1
+      },
+      "activity": {
+        "steps": 2211,
+        "active_minutes": 27,
+        "calories_burned": 1724,
+        "distance_km": 1.8,
+        "floors_climbed": 8
+      },
+      "nutrition": {
+        "calories": 1818,
+        "protein_g": 80.2,
+        "carbs_g": 227.9,
+        "fat_g": 32.0,
+        "water_ml": 2178,
+        "sugar_g": 65.5,
+        "fiber_g": 22.5
+      },
+      "weight": {
+        "weight_kg": 71.1,
+        "body_fat_percent": 18.7
+      },
+      "wellness": {
+        "stress_score": 33,
+        "energy_level": 30,
+        "mood_score": 45
+      }
+    },
+    {
+      "date": "2026-01-08",
+      "sleep": {
+        "duration_hours": 5.5,
+        "quality_score": 35,
+        "deep_sleep_hours": 1.1,
+        "rem_sleep_hours": 1.4,
+        "time_to_sleep_minutes": 17,
+        "wake_ups": 0
+      },
+      "heart_rate": {
+        "resting": 78,
+        "average": 89,
+        "max": 143,
+        "hrv": 29.9
+      },
+      "activity": {
+        "steps": 5062,
+        "active_minutes": 45,
+        "calories_burned": 2111,
+        "distance_km": 4.0,
+        "floors_climbed": 5
+      },
+      "nutrition": {
+        "calories": 2084,
+        "protein_g": 100.8,
+        "carbs_g": 245.6,
+        "fat_g": 64.5,
+        "water_ml": 2936,
+        "sugar_g": 49.8,
+        "fiber_g": 18.1
+      },
+      "weight": {
+        "weight_kg": 71.3,
+        "body_fat_percent": null
+      },
+      "wellness": {
+        "stress_score": 30,
+        "energy_level": 17,
+        "mood_score": 32
+      }
+    },
+    {
+      "date": "2026-01-09",
+      "sleep": {
+        "duration_hours": 5.5,
+        "quality_score": 46,
+        "deep_sleep_hours": 1.0,
+        "rem_sleep_hours": 1.1,
+        "time_to_sleep_minutes": 5,
+        "wake_ups": 2
+      },
+      "heart_rate": {
+        "resting": 80,
+        "average": 97,
+        "max": 137,
+        "hrv": 23.5
+      },
+      "activity": {
+        "steps": 5252,
+        "active_minutes": 51,
+        "calories_burned": 2257,
+        "distance_km": 4.2,
+        "floors_climbed": 2
+      },
+      "nutrition": {
+        "calories": 2160,
+        "protein_g": 80.0,
+        "carbs_g": 302.9,
+        "fat_g": 56.2,
+        "water_ml": 1599,
+        "sugar_g": 52.8,
+        "fiber_g": 26.6
+      },
+      "weight": {
+        "weight_kg": 70.5,
+        "body_fat_percent": null
+      },
+      "wellness": {
+        "stress_score": 35,
+        "energy_level": 25,
+        "mood_score": 42
+      }
+    },
+    {
+      "date": "2026-01-10",
+      "sleep": {
+        "duration_hours": 8.0,
+        "quality_score": 69,
+        "deep_sleep_hours": 1.1,
+        "rem_sleep_hours": 1.8,
+        "time_to_sleep_minutes": 16,
+        "wake_ups": 2
+      },
+      "heart_rate": {
+        "resting": 57,
+        "average": 72,
+        "max": 96,
+        "hrv": 46.8
+      },
+      "activity": {
+        "steps": 10629,
+        "active_minutes": 109,
+        "calories_burned": 2626,
+        "distance_km": 8.5,
+        "floors_climbed": 7
+      },
+      "nutrition": {
+        "calories": 2236,
+        "protein_g": 90.0,
+        "carbs_g": 270.7,
+        "fat_g": 90.5,
+        "water_ml": 2897,
+        "sugar_g": 51.3,
+        "fiber_g": 28.8
+      },
+      "weight": {
+        "weight_kg": 70.7,
+        "body_fat_percent": 18.1
+      },
+      "wellness": {
+        "stress_score": 30,
+        "energy_level": 58,
+        "mood_score": 62
+      }
+    },
+    {
+      "date": "2026-01-11",
+      "sleep": {
+        "duration_hours": 8.3,
+        "quality_score": 100,
+        "deep_sleep_hours": 0.9,
+        "rem_sleep_hours": 2.0,
+        "time_to_sleep_minutes": 5,
+        "wake_ups": 1
+      },
+      "heart_rate": {
+        "resting": 59,
+        "average": 77,
+        "max": 142,
+        "hrv": 49.5
+      },
+      "activity": {
+        "steps": 8189,
+        "active_minutes": 79,
+        "calories_burned": 2430,
+        "distance_km": 6.6,
+        "floors_climbed": 0
+      },
+      "nutrition": {
+        "calories": 2370,
+        "protein_g": 65.1,
+        "carbs_g": 303.9,
+        "fat_g": 103.3,
+        "water_ml": 1962,
+        "sugar_g": 35.8,
+        "fiber_g": 36.8
+      },
+      "weight": {
+        "weight_kg": 71.0,
+        "body_fat_percent": null
+      },
+      "wellness": {
+        "stress_score": 15,
+        "energy_level": 71,
+        "mood_score": 71
+      }
+    },
+    {
+      "date": "2026-01-12",
+      "sleep": {
+        "duration_hours": 8.2,
+        "quality_score": 84,
+        "deep_sleep_hours": 1.4,
+        "rem_sleep_hours": 2.0,
+        "time_to_sleep_minutes": 5,
+        "wake_ups": 0
+      },
+      "heart_rate": {
+        "resting": 67,
+        "average": 85,
+        "max": 140,
+        "hrv": 39.8
+      },
+      "activity": {
+        "steps": 9410,
+        "active_minutes": 102,
+        "calories_burned": 2477,
+        "distance_km": 7.5,
+        "floors_climbed": 3
+      },
+      "nutrition": {
+        "calories": 1988,
+        "protein_g": 57.0,
+        "carbs_g": 271.0,
+        "fat_g": 93.1,
+        "water_ml": 2347,
+        "sugar_g": 64.8,
+        "fiber_g": 16.8
+      },
+      "weight": {
+        "weight_kg": 71.2,
+        "body_fat_percent": null
+      },
+      "wellness": {
+        "stress_score": 30,
+        "energy_level": 66,
+        "mood_score": 69
+      }
+    },
+    {
+      "date": "2026-01-13",
+      "sleep": {
+        "duration_hours": 7.3,
+        "quality_score": 73,
+        "deep_sleep_hours": 1.5,
+        "rem_sleep_hours": 1.3,
+        "time_to_sleep_minutes": 14,
+        "wake_ups": 1
+      },
+      "heart_rate": {
+        "resting": 64,
+        "average": 82,
+        "max": 112,
+        "hrv": 44.7
+      },
+      "activity": {
+        "steps": 10566,
+        "active_minutes": 101,
+        "calories_burned": 2564,
+        "distance_km": 8.5,
+        "floors_climbed": 14
+      },
+      "nutrition": {
+        "calories": 2532,
+        "protein_g": 96.6,
+        "carbs_g": 274.9,
+        "fat_g": 82.6,
+        "water_ml": 2391,
+        "sugar_g": 59.3,
+        "fiber_g": 33.8
+      },
+      "weight": {
+        "weight_kg": 70.8,
+        "body_fat_percent": 18.7
+      },
+      "wellness": {
+        "stress_score": 43,
+        "energy_level": 78,
+        "mood_score": 77
+      }
+    },
+    {
+      "date": "2026-01-14",
+      "sleep": {
+        "duration_hours": 8.0,
+        "quality_score": 80,
+        "deep_sleep_hours": 1.3,
+        "rem_sleep_hours": 2.0,
+        "time_to_sleep_minutes": 5,
+        "wake_ups": 1
+      },
+      "heart_rate": {
+        "resting": 67,
+        "average": 81,
+        "max": 100,
+        "hrv": 35.1
+      },
+      "activity": {
+        "steps": 9402,
+        "active_minutes": 94,
+        "calories_burned": 2515,
+        "distance_km": 7.5,
+        "floors_climbed": 7
+      },
+      "nutrition": {
+        "calories": 2012,
+        "protein_g": 96.3,
+        "carbs_g": 241.9,
+        "fat_g": 77.6,
+        "water_ml": 2863,
+        "sugar_g": 45.2,
+        "fiber_g": 24.4
+      },
+      "weight": {
+        "weight_kg": 70.8,
+        "body_fat_percent": null
+      },
+      "wellness": {
+        "stress_score": 28,
+        "energy_level": 74,
+        "mood_score": 74
+      }
+    },
+    {
+      "date": "2026-01-15",
+      "sleep": {
+        "duration_hours": 7.4,
+        "quality_score": 85,
+        "deep_sleep_hours": 1.0,
+        "rem_sleep_hours": 1.5,
+        "time_to_sleep_minutes": 21,
+        "wake_ups": 1
+      },
+      "heart_rate": {
+        "resting": 63,
+        "average": 74,
+        "max": 106,
+        "hrv": 42.4
+      },
+      "activity": {
+        "steps": 9563,
+        "active_minutes": 81,
+        "calories_burned": 2423,
+        "distance_km": 7.7,
+        "floors_climbed": 10
+      },
+      "nutrition": {
+        "calories": 2001,
+        "protein_g": 85.5,
+        "carbs_g": 251.4,
+        "fat_g": 90.9,
+        "water_ml": 2674,
+        "sugar_g": 32.2,
+        "fiber_g": 34.1
+      },
+      "weight": {
+        "weight_kg": 70.8,
+        "body_fat_percent": null
+      },
+      "wellness": {
+        "stress_score": 40,
+        "energy_level": 84,
+        "mood_score": 79
+      }
+    },
+    {
+      "date": "2026-01-16",
+      "sleep": {
+        "duration_hours": 6.4,
+        "quality_score": 51,
+        "deep_sleep_hours": 0.9,
+        "rem_sleep_hours": 1.4,
+        "time_to_sleep_minutes": 33,
+        "wake_ups": 1
+      },
+      "heart_rate": {
+        "resting": 70,
+        "average": 91,
+        "max": 126,
+        "hrv": 38.7
+      },
+      "activity": {
+        "steps": 9542,
+        "active_minutes": 110,
+        "calories_burned": 2435,
+        "distance_km": 7.6,
+        "floors_climbed": 4
+      },
+      "nutrition": {
+        "calories": 1857,
+        "protein_g": 85.2,
+        "carbs_g": 163.4,
+        "fat_g": 68.2,
+        "water_ml": 2204,
+        "sugar_g": 15.1,
+        "fiber_g": 22.7
+      },
+      "weight": {
+        "weight_kg": 70.9,
+        "body_fat_percent": 18.6
+      },
+      "wellness": {
+        "stress_score": 59,
+        "energy_level": 30,
+        "mood_score": 33
+      }
+    },
+    {
+      "date": "2026-01-17",
+      "sleep": {
+        "duration_hours": 7.1,
+        "quality_score": 51,
+        "deep_sleep_hours": 0.9,
+        "rem_sleep_hours": 1.1,
+        "time_to_sleep_minutes": 32,
+        "wake_ups": 1
+      },
+      "heart_rate": {
+        "resting": 68,
+        "average": 81,
+        "max": 101,
+        "hrv": 23.2
+      },
+      "activity": {
+        "steps": 8272,
+        "active_minutes": 94,
+        "calories_burned": 2495,
+        "distance_km": 6.6,
+        "floors_climbed": 3
+      },
+      "nutrition": {
+        "calories": 2191,
+        "protein_g": 88.8,
+        "carbs_g": 268.5,
+        "fat_g": 92.4,
+        "water_ml": 2646,
+        "sugar_g": 33.9,
+        "fiber_g": 24.8
+      },
+      "weight": {
+        "weight_kg": 71.2,
+        "body_fat_percent": null
+      },
+      "wellness": {
+        "stress_score": 52,
+        "energy_level": 48,
+        "mood_score": 56
+      }
+    },
+    {
+      "date": "2026-01-18",
+      "sleep": {
+        "duration_hours": 7.8,
+        "quality_score": 55,
+        "deep_sleep_hours": 1.3,
+        "rem_sleep_hours": 1.7,
+        "time_to_sleep_minutes": 23,
+        "wake_ups": 2
+      },
+      "heart_rate": {
+        "resting": 67,
+        "average": 79,
+        "max": 105,
+        "hrv": 31.8
+      },
+      "activity": {
+        "steps": 7184,
+        "active_minutes": 88,
+        "calories_burned": 2317,
+        "distance_km": 5.7,
+        "floors_climbed": 6
+      },
+      "nutrition": {
+        "calories": 2163,
+        "protein_g": 77.8,
+        "carbs_g": 245.7,
+        "fat_g": 98.0,
+        "water_ml": 3271,
+        "sugar_g": 25.5,
+        "fiber_g": 18.1
+      },
+      "weight": {
+        "weight_kg": 71.2,
+        "body_fat_percent": null
+      },
+      "wellness": {
+        "stress_score": 30,
+        "energy_level": 42,
+        "mood_score": 62
+      }
+    },
+    {
+      "date": "2026-01-19",
+      "sleep": {
+        "duration_hours": 6.5,
+        "quality_score": 50,
+        "deep_sleep_hours": 1.3,
+        "rem_sleep_hours": 1.8,
+        "time_to_sleep_minutes": 18,
+        "wake_ups": 0
+      },
+      "heart_rate": {
+        "resting": 68,
+        "average": 88,
+        "max": 142,
+        "hrv": 29.1
+      },
+      "activity": {
+        "steps": 7337,
+        "active_minutes": 78,
+        "calories_burned": 2445,
+        "distance_km": 5.9,
+        "floors_climbed": 11
+      },
+      "nutrition": {
+        "calories": 2292,
+        "protein_g": 76.2,
+        "carbs_g": 292.8,
+        "fat_g": 111.8,
+        "water_ml": 2559,
+        "sugar_g": 44.6,
+        "fiber_g": 27.8
+      },
+      "weight": {
+        "weight_kg": 71.0,
+        "body_fat_percent": 18.2
+      },
+      "wellness": {
+        "stress_score": 53,
+        "energy_level": 34,
+        "mood_score": 46
+      }
+    },
+    {
+      "date": "2026-01-20",
+      "sleep": {
+        "duration_hours": 7.5,
+        "quality_score": 78,
+        "deep_sleep_hours": 1.0,
+        "rem_sleep_hours": 1.8,
+        "time_to_sleep_minutes": 10,
+        "wake_ups": 2
+      },
+      "heart_rate": {
+        "resting": 60,
+        "average": 80,
+        "max": 125,
+        "hrv": 43.5
+      },
+      "activity": {
+        "steps": 8207,
+        "active_minutes": 67,
+        "calories_burned": 2503,
+        "distance_km": 6.6,
+        "floors_climbed": 8
+      },
+      "nutrition": {
+        "calories": 2200,
+        "protein_g": 96.0,
+        "carbs_g": 265.0,
+        "fat_g": 95.8,
+        "water_ml": 1583,
+        "sugar_g": 47.0,
+        "fiber_g": 22.2
+      },
+      "weight": {
+        "weight_kg": 70.5,
+        "body_fat_percent": null
+      },
+      "wellness": {
+        "stress_score": 26,
+        "energy_level": 84,
+        "mood_score": 87
+      }
+    },
+    {
+      "date": "2026-01-21",
+      "sleep": {
+        "duration_hours": 6.2,
+        "quality_score": 72,
+        "deep_sleep_hours": 0.7,
+        "rem_sleep_hours": 1.5,
+        "time_to_sleep_minutes": 17,
+        "wake_ups": 1
+      },
+      "heart_rate": {
+        "resting": 59,
+        "average": 71,
+        "max": 112,
+        "hrv": 44.3
+      },
+      "activity": {
+        "steps": 10167,
+        "active_minutes": 104,
+        "calories_burned": 2647,
+        "distance_km": 8.1,
+        "floors_climbed": 11
+      },
+      "nutrition": {
+        "calories": 2158,
+        "protein_g": 77.6,
+        "carbs_g": 266.2,
+        "fat_g": 97.5,
+        "water_ml": 1709,
+        "sugar_g": 59.8,
+        "fiber_g": 22.7
+      },
+      "weight": {
+        "weight_kg": 71.5,
+        "body_fat_percent": null
+      },
+      "wellness": {
+        "stress_score": 39,
+        "energy_level": 50,
+        "mood_score": 50
+      }
+    },
+    {
+      "date": "2026-01-22",
+      "sleep": {
+        "duration_hours": 6.9,
+        "quality_score": 68,
+        "deep_sleep_hours": 1.4,
+        "rem_sleep_hours": 1.4,
+        "time_to_sleep_minutes": 5,
+        "wake_ups": 2
+      },
+      "heart_rate": {
+        "resting": 61,
+        "average": 57,
+        "max": 83,
+        "hrv": 44.5
+      },
+      "activity": {
+        "steps": 8122,
+        "active_minutes": 76,
+        "calories_burned": 2335,
+        "distance_km": 6.5,
+        "floors_climbed": 9
+      },
+      "nutrition": {
+        "calories": 2156,
+        "protein_g": 91.9,
+        "carbs_g": 309.7,
+        "fat_g": 78.3,
+        "water_ml": 1871,
+        "sugar_g": 40.1,
+        "fiber_g": 14.0
+      },
+      "weight": {
+        "weight_kg": 70.6,
+        "body_fat_percent": 17.8
+      },
+      "wellness": {
+        "stress_score": 31,
+        "energy_level": 67,
+        "mood_score": 63
+      }
+    },
+    {
+      "date": "2026-01-23",
+      "sleep": {
+        "duration_hours": 6.4,
+        "quality_score": 61,
+        "deep_sleep_hours": 1.2,
+        "rem_sleep_hours": 1.3,
+        "time_to_sleep_minutes": 24,
+        "wake_ups": 0
+      },
+      "heart_rate": {
+        "resting": 60,
+        "average": 64,
+        "max": 119,
+        "hrv": 43.2
+      },
+      "activity": {
+        "steps": 7618,
+        "active_minutes": 88,
+        "calories_burned": 2494,
+        "distance_km": 6.1,
+        "floors_climbed": 8
+      },
+      "nutrition": {
+        "calories": 2138,
+        "protein_g": 77.5,
+        "carbs_g": 244.0,
+        "fat_g": 93.4,
+        "water_ml": 2592,
+        "sugar_g": 20.9,
+        "fiber_g": 22.9
+      },
+      "weight": {
+        "weight_kg": 70.7,
+        "body_fat_percent": null
+      },
+      "wellness": {
+        "stress_score": 33,
+        "energy_level": 48,
+        "mood_score": 46
+      }
+    },
+    {
+      "date": "2026-01-24",
+      "sleep": {
+        "duration_hours": 7.7,
+        "quality_score": 75,
+        "deep_sleep_hours": 1.5,
+        "rem_sleep_hours": 2.3,
+        "time_to_sleep_minutes": 5,
+        "wake_ups": 2
+      },
+      "heart_rate": {
+        "resting": 60,
+        "average": 76,
+        "max": 109,
+        "hrv": 57.4
+      },
+      "activity": {
+        "steps": 5409,
+        "active_minutes": 47,
+        "calories_burned": 2138,
+        "distance_km": 4.3,
+        "floors_climbed": 6
+      },
+      "nutrition": {
+        "calories": 2073,
+        "protein_g": 91.2,
+        "carbs_g": 266.6,
+        "fat_g": 60.5,
+        "water_ml": 2254,
+        "sugar_g": 37.8,
+        "fiber_g": 28.1
+      },
+      "weight": {
+        "weight_kg": 70.7,
+        "body_fat_percent": null
+      },
+      "wellness": {
+        "stress_score": 37,
+        "energy_level": 74,
+        "mood_score": 62
+      }
+    },
+    {
+      "date": "2026-01-25",
+      "sleep": {
+        "duration_hours": 7.5,
+        "quality_score": 77,
+        "deep_sleep_hours": 1.1,
+        "rem_sleep_hours": 1.7,
+        "time_to_sleep_minutes": 22,
+        "wake_ups": 0
+      },
+      "heart_rate": {
+        "resting": 68,
+        "average": 83,
+        "max": 110,
+        "hrv": 43.6
+      },
+      "activity": {
+        "steps": 6269,
+        "active_minutes": 94,
+        "calories_burned": 2275,
+        "distance_km": 5.0,
+        "floors_climbed": 13
+      },
+      "nutrition": {
+        "calories": 2445,
+        "protein_g": 103.4,
+        "carbs_g": 336.0,
+        "fat_g": 74.6,
+        "water_ml": 1768,
+        "sugar_g": 55.9,
+        "fiber_g": 25.3
+      },
+      "weight": {
+        "weight_kg": 70.6,
+        "body_fat_percent": 17.8
+      },
+      "wellness": {
+        "stress_score": 43,
+        "energy_level": 60,
+        "mood_score": 61
+      }
+    },
+    {
+      "date": "2026-01-26",
+      "sleep": {
+        "duration_hours": 7.2,
+        "quality_score": 73,
+        "deep_sleep_hours": 1.2,
+        "rem_sleep_hours": 1.2,
+        "time_to_sleep_minutes": 18,
+        "wake_ups": 2
+      },
+      "heart_rate": {
+        "resting": 60,
+        "average": 73,
+        "max": 109,
+        "hrv": 42.8
+      },
+      "activity": {
+        "steps": 3390,
+        "active_minutes": 40,
+        "calories_burned": 1980,
+        "distance_km": 2.7,
+        "floors_climbed": 5
+      },
+      "nutrition": {
+        "calories": 2019,
+        "protein_g": 83.6,
+        "carbs_g": 228.5,
+        "fat_g": 62.3,
+        "water_ml": 1925,
+        "sugar_g": 31.8,
+        "fiber_g": 28.9
+      },
+      "weight": {
+        "weight_kg": 70.7,
+        "body_fat_percent": null
+      },
+      "wellness": {
+        "stress_score": 52,
+        "energy_level": 54,
+        "mood_score": 50
+      }
+    },
+    {
+      "date": "2026-01-27",
+      "sleep": {
+        "duration_hours": 4.9,
+        "quality_score": 71,
+        "deep_sleep_hours": 0.6,
+        "rem_sleep_hours": 0.8,
+        "time_to_sleep_minutes": 18,
+        "wake_ups": 1
+      },
+      "heart_rate": {
+        "resting": 53,
+        "average": 69,
+        "max": 88,
+        "hrv": 41.6
+      },
+      "activity": {
+        "steps": 8238,
+        "active_minutes": 56,
+        "calories_burned": 2138,
+        "distance_km": 6.6,
+        "floors_climbed": 5
+      },
+      "nutrition": {
+        "calories": 2133,
+        "protein_g": 65.2,
+        "carbs_g": 234.0,
+        "fat_g": 87.8,
+        "water_ml": 2339,
+        "sugar_g": 34.2,
+        "fiber_g": 15.0
+      },
+      "weight": {
+        "weight_kg": 70.8,
+        "body_fat_percent": null
+      },
+      "wellness": {
+        "stress_score": 38,
+        "energy_level": 62,
+        "mood_score": 63
+      }
+    },
+    {
+      "date": "2026-01-28",
+      "sleep": {
+        "duration_hours": 7.9,
+        "quality_score": 80,
+        "deep_sleep_hours": 1.0,
+        "rem_sleep_hours": 1.8,
+        "time_to_sleep_minutes": 8,
+        "wake_ups": 0
+      },
+      "heart_rate": {
+        "resting": 58,
+        "average": 73,
+        "max": 130,
+        "hrv": 37.8
+      },
+      "activity": {
+        "steps": 10005,
+        "active_minutes": 99,
+        "calories_burned": 2536,
+        "distance_km": 8.0,
+        "floors_climbed": 0
+      },
+      "nutrition": {
+        "calories": 2352,
+        "protein_g": 57.1,
+        "carbs_g": 278.8,
+        "fat_g": 99.6,
+        "water_ml": 3165,
+        "sugar_g": 42.2,
+        "fiber_g": 17.0
+      },
+      "weight": {
+        "weight_kg": 70.4,
+        "body_fat_percent": 17.9
+      },
+      "wellness": {
+        "stress_score": 7,
+        "energy_level": 83,
+        "mood_score": 83
+      }
+    },
+    {
+      "date": "2026-01-29",
+      "sleep": {
+        "duration_hours": 8.2,
+        "quality_score": 70,
+        "deep_sleep_hours": 1.0,
+        "rem_sleep_hours": 1.5,
+        "time_to_sleep_minutes": 18,
+        "wake_ups": 2
+      },
+      "heart_rate": {
+        "resting": 61,
+        "average": 72,
+        "max": 120,
+        "hrv": 42.3
+      },
+      "activity": {
+        "steps": 8736,
+        "active_minutes": 88,
+        "calories_burned": 2417,
+        "distance_km": 7.0,
+        "floors_climbed": 3
+      },
+      "nutrition": {
+        "calories": 2359,
+        "protein_g": 89.9,
+        "carbs_g": 301.6,
+        "fat_g": 78.7,
+        "water_ml": 3491,
+        "sugar_g": 46.5,
+        "fiber_g": 15.7
+      },
+      "weight": {
+        "weight_kg": 71.1,
+        "body_fat_percent": null
+      },
+      "wellness": {
+        "stress_score": 36,
+        "energy_level": 52,
+        "mood_score": 61
+      }
+    },
+    {
+      "date": "2026-01-30",
+      "sleep": {
+        "duration_hours": 6.9,
+        "quality_score": 87,
+        "deep_sleep_hours": 1.0,
+        "rem_sleep_hours": 1.3,
+        "time_to_sleep_minutes": 11,
+        "wake_ups": 2
+      },
+      "heart_rate": {
+        "resting": 59,
+        "average": 81,
+        "max": 125,
+        "hrv": 49.2
+      },
+      "activity": {
+        "steps": 8370,
+        "active_minutes": 77,
+        "calories_burned": 2148,
+        "distance_km": 6.7,
+        "floors_climbed": 7
+      },
+      "nutrition": {
+        "calories": 2377,
+        "protein_g": 62.1,
+        "carbs_g": 307.3,
+        "fat_g": 110.2,
+        "water_ml": 2521,
+        "sugar_g": 48.3,
+        "fiber_g": 27.9
+      },
+      "weight": {
+        "weight_kg": 70.1,
+        "body_fat_percent": null
+      },
+      "wellness": {
+        "stress_score": 27,
+        "energy_level": 75,
+        "mood_score": 64
+      }
+    }
+  ]
+}
