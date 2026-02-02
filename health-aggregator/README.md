@@ -52,6 +52,7 @@ python generate_synthetic_data.py
 ---
 
 ## 📁 Project Structure
+```
 health-aggregator/
 ├── backend/
 │   ├── main.py
@@ -87,9 +88,11 @@ health-aggregator/
 │
 ├── DESIGN_DOC.md
 └── README.md
+```
 
 
 
 ## 📄 Documentation
 
 See [DESIGN_DOC.md](./DESIGN_DOC.md) for detailed design documentation including architecture, data model, and technical decisions.
+
